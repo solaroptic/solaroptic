@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @solaroptic
-- 👀 I’m interested in ...Web Development/Js/BlueTeam/Ethical Hacking/Blockchain/Reading/Everything
-- 🌱 I’m currently learning ...HTML/CSS/Js
-- 💞️ I’m looking to collaborate on ...give me a sec
+- 👀 I’m interested in ...Web Development-Frontend/Backend/BlueTeam/Reading/Everything
+- 🌱 I’m currently learning ...advanced CSS, advanced Js and React, and some basic Node
+- 💞️ I’m looking to collaborate on ...Messaging Apps and International Projects
 - 📫 How to reach me ...kumolanding@gmail.com
 
 <!---
